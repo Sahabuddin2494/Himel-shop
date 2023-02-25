@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+
+:root{
+    --color:#FF9400;
+    --color2:#FF6A00;
+}
+
+/* call_us_section_start */
+.call_us_section{
+    background-color: #F3F3F3;
+}
+.call_us_main{
+text-align: right;
+}
+.call_us_main ul{
+margin-bottom: 0px;
+}
+.call_us_main ul li {
+display:inline-block;
+padding: 8px 6px;
+}
+.call_us_main ul li a{
+    font-size: 14px;
+    color:black;
+    font-weight:500;
+}
+/* call_us_section_end */
+/* himel_logo_section_start */
+.himeshop_logo_section{
+
+}
+.himeshop_logo{
+
+}
+.himeshop_logo_search{
+
+}
+.search_section input{
+    border:2px solid red;
+   
+
+}
+.search_section{
+    position: relative;
+}
+.search_section input:focus{
+ border-color: yellow;
+}
+.search_icon .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1.4em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    color: white;
+    background: red;
+    padding: 8px 14px;
+    position: absolute;
+    top:0px;
+    right: 1px;
+    bottom: 0px;
+    border-radius: 0px 7px 7px 0px;
+}
+.himeshop_logo_right{
+text-align: right;
+}
+.himeshop_logo_right .btn{
+    background-color: var(--color2);
+    color: white;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 10px 16px;
+}
+/* himel_logo_section_end */
+/* menu_bar_section_start */
+.menu_bar_section_start{
+border-bottom: 1px solid paleturquoise;
+box-shadow: 0px 3px 5px 1px powderblue;
+}
+.menu_bar_section{
+
+}
+.menu_bar_section ul{
+text-align:left;
+padding-left: 0px;
+}
+.menu_bar_section ul li{
+display: inline-block;
+padding: 4px 11px;
+border-radius: 6px;
+transition: 0.7s;
+}
+.menu_bar_section ul li:hover{
+    background-color:var(--color);
+ }
+ .menu_bar_section ul li:hover a{
+color: white;
+ }
+.menu_bar_section ul li a{
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+}
+/* menu_bar_section_end */

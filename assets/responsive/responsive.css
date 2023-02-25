@@ -1,0 +1,60 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    .menu_bar_section ul li {
+        display: inline-block;
+        padding: 4px 4px;
+    }
+    .menu_bar_section ul li a {
+        font-size: 13px;
+        font-weight: 600;
+        color: black;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .call_us_main ul li a {
+        font-size: 12px;
+    }
+    .menu_bar_section ul li{
+        display:block;
+     
+        }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .himeshop_logo_right .btn {
+        background-color: var(--color2);
+        color: white;
+        text-transform: capitalize;
+        font-weight: 700;
+        font-size: 11px;
+        padding: 10px 10px;
+    }
+    .call_us_main ul li {
+        padding: 3px 0px;
+        display: block;
+    }
+    .call_us_main {
+        text-align: center;
+    }
+    .menu_bar_section ul li{
+        display:block;
+     
+        }
+}
+@media(max-width:575px){
+    .himeshop_logo {
+        text-align: center;
+    }
+    .himeshop_logo_right {
+        text-align: center;
+    }
+    .call_us_main ul li {
+        padding: 3px 0px;
+        display: block;
+    }
+    .call_us_main {
+        text-align: center;
+    }
+    .menu_bar_section ul li{
+        display:block;
+     
+        }
+}
