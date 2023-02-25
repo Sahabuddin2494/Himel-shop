@@ -38,6 +38,11 @@
         display:block;
      
         }
+        .footer_left_inner_left_icon a {
+         
+            margin: 1px;
+           
+        }
 }
 @media(max-width:575px){
     .himeshop_logo {
