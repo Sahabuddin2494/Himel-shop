@@ -14,10 +14,20 @@ a{
 ul,ol{
     list-style: none;
 }
+.color_red{
+    color: red;
+}
+.bg_1{
+    background-color: red;
+}
+.bg_2{
+    background-color:var(--color);
+}
 
 :root{
     --color:#FF9400;
     --color2:#FF6A00;
+    --color3:#FFF8DC;
 }
 
 /* call_us_section_start */
@@ -129,3 +139,56 @@ color: white;
 .cra_ri_img_size{
     width:100%;
 }
+/* .home_item_list_section_start */
+.home_item_list_section{
+background-color: #F9F9F9;
+}
+.home_item_list_one{
+border: 1px solid red;
+text-align: center;
+}
+.home_item_list_one_img{
+height: 200px;
+overflow: hidden;
+}
+.home_item_list_one_para{
+background-color: var(--color3);
+text-align: center;
+}
+.home_item_list_one_para small{
+    font-size: 12px;
+    font-weight: bold;
+    color: #525252;
+}
+.home_item_list_one_para p{
+margin: 0px;
+color: black;
+height: 23px;
+line-height:28px;color: #355088;
+font-size: 16px;
+font-weight: bold;
+}
+
+.home_item_list_one_btn{
+text-align: center;
+}
+.home_item_list_one_btn a{
+    font-size: 12px;
+   display: inline-block;
+   color: white;
+   font-weight: 600;
+}
+.home_item_list_more{
+    text-align: center;
+}
+.home_item_list_more .btn{
+    background-color: var(--color2);
+    color: white;
+    font-size: 14px;
+    padding: 4px 18px;
+}
+.home_item_list_more .btn:hover{
+    background-color: var(--color2);
+    color:yellowgreen;
+}
+/* home_item_list_section_end */
