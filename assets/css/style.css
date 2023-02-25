@@ -284,3 +284,33 @@ padding-top: 6px;
     background-color: navy;
 }
 /* footer_section_left_main_end */
+/* .footer_our_opps_section_start */
+.footer_our_apps_section{
+
+}
+.footer_our_apps_left{
+
+}
+.footer_our_apps_left_inner_left{
+
+}
+.footer_our_apps_left_inner_left h5{
+    font-size: 18px;
+    font-weight: bold;
+}
+.footer_our_apps_left_inner_right{
+
+}
+.footer_our_apps_left_inner_right h5{
+    font-size: 18px;
+    font-weight: bold;
+}
+/* left_end */
+.footer_our_apps_right{
+
+}
+.footer_our_apps_right h5{
+    font-weight: bold;
+    font-size: 18px;
+}
+/* footer_our_opps_section_end */
