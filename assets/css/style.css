@@ -313,4 +313,13 @@ padding-top: 6px;
     font-weight: bold;
     font-size: 18px;
 }
+.footer_copy_right{
+
+}
+.footer_copy_right p{
+    font-size: 14px;
+    color: #666666;
+    font-weight: 600;
+    line-height: 21px;
+}
 /* footer_our_opps_section_end */
