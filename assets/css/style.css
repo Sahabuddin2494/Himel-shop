@@ -446,6 +446,53 @@ margin-bottom: 0px;
 }
 /* left_end */
 .registration_inform_right{
+border:1px solid #FFE6C4;
+}
+.registration_inform_right_table{
+    background-color: white;
+}
+.table_name_section{
 
+}
+.table_name_section p{
+    font-size: 14px;
+}
+.table_img_section{
+
+}
+.t_img_size{
+    width: 40%;
+}
+.table_item_incre{
+
+}
+.table_item_incre .btn{
+    background-color:#FF9400;
+    color: white;
+    font-weight: 600;
+    border-color: red;
+}
+.table_item_action{
+text-align: center;
+}
+.table_item_action .svg-inline--fa {
+    height: 2em;
+    color: red;
+}
+.table_total_price{
+text-align: center;
+
+}
+.table_total_price h2{
+    font-weight: bold;
+    font-size: 26px;
+}
+.table_total_price h5{
+    text-align:left;
+    font-weight: 700;
+    font-size: 15px;
+}
+.t_deli_img{
+    width:30px;
 }
 /* registation_information_page_end */
