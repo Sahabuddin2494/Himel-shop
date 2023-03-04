@@ -521,3 +521,11 @@ text-align: center;
     color: #666666;
 }
 /* order_conformation_page_end */
+.important_title_section{
+    background-color: white;
+}
+.important_title_section h5{
+    margin-bottom: 0px;
+    font-weight: 600;
+    font-size: 20px;
+}
