@@ -496,3 +496,28 @@ text-align: center;
     width:30px;
 }
 /* registation_information_page_end */
+/* order_conformation_page_start */
+.order_conformation_page{
+
+}
+.order_conformation_page_title{
+    background-color: #FFE6C4;
+}
+.order_conformation_main{
+    border: 1px solid #FFE6C4;
+}
+.order_conformation_page_title h5{
+    font-size: 20px;
+    font-weight: bold;
+    color: #3C763D;
+    margin-bottom: 0px;
+}
+.order_conformation_para{
+
+}
+.order_conformation_para P{
+    margin-bottom: 4px;
+    font-size: 14px;
+    color: #666666;
+}
+/* order_conformation_page_end */
