@@ -421,3 +421,31 @@ padding-left: 10px;
 
 }
 /* product_details_page_end */
+/* registation_information_page_start */
+.registration_inform_page_start{
+background-color: #F9F9F9;
+}
+.registration_inform_left{
+    border: 1px solid #FFE6C4 ;
+}
+.registration_inform_title{
+ background-color: #FFE6C4;
+}
+.registration_inform_title h5{
+color:#3C763D;
+font-weight: 600;
+font-size: 18px;
+margin-bottom: 0px;
+}
+.registation_inform_btn{
+
+}
+.registation_inform_btn .btn{
+    background-color: #FF9400;
+    color: white;
+}
+/* left_end */
+.registration_inform_right{
+
+}
+/* registation_information_page_end */
